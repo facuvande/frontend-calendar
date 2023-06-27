@@ -6,7 +6,7 @@ import { Navigate } from "react-router-dom"
 
 export const AppRouter = () => {
     
-    const authStatus = 'not-authenticated'
+    const authStatus = 'not-authenticated' // 'authenticated'
 
     return (
         <Routes>
