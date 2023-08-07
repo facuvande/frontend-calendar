@@ -1,4 +1,5 @@
-export const getMessagesEs = () => {
+
+export const getMessagesES = () => {
     return {
         allDay: 'Todo el día',
         previous: '<',
@@ -15,3 +16,4 @@ export const getMessagesEs = () => {
         showMore: total => `+ Ver más (${total})`
     };
 }
+
