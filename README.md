@@ -9,6 +9,9 @@
 - Bootstrap: Para el diseño y la estructura visual.
 - Axios: Para realizar solicitudes HTTP eficientes.
 
+## Video del proyecto
+https://github.com/facuvande/frontend-calendar/assets/107081692/e3ea237d-0f33-4db7-9453-a282378cde77
+
 ## Cómo Iniciar el Proyecto
 
 1. Clona este repositorio en tu máquina local.
@@ -27,3 +30,4 @@
 
 ¡Estoy abierto a colaboraciones! Si deseas contribuir al desarrollo de este proyecto, por favor sigue las pautas de contribución y envía tus pull requests.
 Agradezco mucho a Fernando Herrera y a Devtalles ya que si ellos me hubiera costado mucho mas concretar este proyecto.
+
